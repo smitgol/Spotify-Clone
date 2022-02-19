@@ -36,6 +36,27 @@ This project is clone of music player app Spotify.In this project user can login
   - Backend :- 
   Type `python manage.py runserver` to start django server
   
+  ### Here are some screenshots of my project :- 
+  
+   - Login Page :- <br><br> 
+    <img src="https://github.com/smitgol/Spotify-Clone/blob/master/spotify_app/login_page.png"/>
+    
+   - Home Page :- <br><br>
+    <img src="https://github.com/smitgol/Spotify-Clone/blob/master/spotify_app/home_page.PNG"/>
+    <br><br>
+    <img src="https://github.com/smitgol/Spotify-Clone/blob/master/spotify_app/home_page_2.PNG"/>
+    
+   - User Playlist page:- <br><br>
+     <img src="https://github.com/smitgol/Spotify-Clone/blob/master/spotify_app/my_playlist.png" />
+    
+  - Playlist Detail Page:- <br><br>
+     <img src="https://github.com/smitgol/Spotify-Clone/blob/master/spotify_app/playlist_page.png" />
+     
+   - Search Page :- <br><br>
+     <img src="https://github.com/smitgol/Spotify-Clone/blob/master/spotify_app/search_page.png" /> 
+    
+    
+  
  
    
  
